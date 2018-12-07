@@ -2,7 +2,7 @@ class PhpAT70 < Formula
   desc "General-purpose scripting language"
   homepage "https://secure.php.net/"
   url "https://php.net/get/php-7.0.30.tar.xz/from/this/mirror"
-  sha256 "ff6f62afeb32c71b3b89ecbd42950ef6c5e0c329cc6e1c58ffac47e6f1f883c4"
+  sha256 "c90892fb68ab9b8476519658d3f78f6388f2609ae1309bdc2a2e1cc9f92dd686"
   revision 2
 
   bottle do
